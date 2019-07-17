@@ -1,0 +1,63 @@
+/* PUT YOUR CSS UNDER THIS LINE */
+
+body{
+    background: white;
+    padding: 5px;
+    font-display: arial;
+    border: 5px solid red;
+}
+
+
+h1{
+    font-size: 15px;
+    color: brown;
+    padding-top: 5px; 
+}
+
+h2{
+  padding-top: 18px;
+  font-size: 35px;
+  margin-bottom: 0;
+}
+
+ p{
+    font-size: 16px;
+    color: red;
+ }
+
+
+.nav-item{
+  margin-bottom: 30px;
+  padding-left: 10px;
+	margin: 0 0 0 20px;
+  font-family: arial;
+  padding-top: 50px;
+	font-size: 16px;
+}
+
+
+a{
+  text-decoration: none; 
+  color: black;
+}
+
+h3{
+  font-size: 70px;
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 200px;
+}
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+  body {
+    background-color: rgb(126, 126, 250);
+  }
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: rebeccapurple;
+  }
+}
