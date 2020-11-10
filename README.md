@@ -2,4 +2,4 @@
 
 Practice work. 
 
-Site: https://habeeb11.github.io/deut/
+Site: https://tola-adelase.github.io/deut/
